@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 # 🧠 Modular RAG PDF Chatbot with FastAPI, ChromaDB & Streamlit
 
-## 🎥 Watch the Tutorial
-
-[![Watch the video](assets/ragbot2.0.png)](https://youtu.be/TxtK6NUUklQ)
+## Introduction
 
 This project is a modular **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and chat with an AI assistant that answers queries based on the document content. It features a microservice architecture with a decoupled **FastAPI backend** and **Streamlit frontend**, using **ChromaDB** as the vector store and **Groq's LLaMA3 model** as the LLM.
 
@@ -126,6 +124,3 @@ For questions or suggestions, open an issue or contact at [shalunirati25@gmail.c
 ---
 
 > Happy Building RAGbots! 🚀
-=======
-# RagBot
->>>>>>> 26ecaae809347a00cc8b383a02829995c7ebfda6
