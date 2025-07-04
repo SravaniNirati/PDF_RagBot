@@ -53,7 +53,7 @@ Retrieval-Augmented Generation (RAG) enhances LLMs by injecting external knowled
 
 ## 📊 Application Diagram
 
-📄 [Download the Full Architecture PDF](assets/ragbot2.0.pdf)
+📄 [Download the Full Architecture](assets/ragbot.docx)
 
 ---
 
